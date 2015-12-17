@@ -1,7 +1,7 @@
 name: Graffo Design
 favicon: null
 layout_spectrum: 0.9710486894473433
-typography_spectrum: 0.9953609558288008
+typography_spectrum: 0.15994
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.22946724761277437
-  lightness: 0.23062411486171186
-  saturation: 0.2076912357006222
-  rhythmicContrast: 0.135768303880468
+    - '#fdfdff'
+    - '#569bdc'
+    - '#0131b4'
+    - '#215bbf'
+    - '#094c5c'
+  brandStrength: 0.5
+  lightness: 0.6875
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
